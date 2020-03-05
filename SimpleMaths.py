@@ -20,3 +20,9 @@
 (-5 + 2) * (-3) #9
 
 # magic
+
+# My QA brain likes to break things, what happens when you divide by 0?
+11 / 0
+# Traceback (most recent call last):
+#  File "<stdin> line 25, in <module>
+# Zero DivisionError: division by zero
