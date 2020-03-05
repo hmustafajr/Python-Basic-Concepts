@@ -14,4 +14,9 @@
 10 /2 #5.0
 # using a single slash for some reason creates a Float
 
+# If you are manipiulating negative values you will simply use the '-' sign
+- 5
+
+(-5 + 2) * (-3) #9
+
 # magic
