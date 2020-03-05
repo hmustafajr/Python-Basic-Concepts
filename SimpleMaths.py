@@ -8,3 +8,5 @@
 
 # Enter an algorithm directly into the console and it will output the answer
 # magic
+
+#Python will carry out multiplication and division as well
