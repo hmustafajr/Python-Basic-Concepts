@@ -1,3 +1,4 @@
+% python
 // Stings are pretty simple in Python, just use the double quotes or two single quotes
 >>> "Python is pretty darn easy"
 'Python is pretty darn easy'
@@ -10,7 +11,7 @@
 
 // \n returns a new line
 // or you could just use a hard return (enter key)
->>> "Hey dude
+>>> "Hey friend
 this is pretty rad"
-' Hey dude
+' Hey friend
 this is pretty rad'
